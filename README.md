@@ -1,4 +1,7 @@
+<img src="https://user-images.githubusercontent.com/77643882/168807788-6baf57fe-e6fc-4226-8536-dcf58910fe5c.png" alt="docker-logo" width="100" heigth="100" />
+
 # Docker-Nginx
+
 Desplegar HTML personalizado en server web dockerizado Nginx
 
 ## Instalar imagen Nginx
